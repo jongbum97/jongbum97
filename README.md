@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align : center;">
+<span>
         <img src="https://github.com/jongbum97/jongbum97/blob/main/left.png?raw=true"  style="height: 300px; width: 300px;">
-    </div>
+    </span>
+    <span>
+        <img src="https://github.com/jongbum97/jongbum97/blob/main/center.png?raw=true"  style="height: 300px; width: 400px;">
+    </span>
+    <span>
+        <img src="https://github.com/jongbum97/jongbum97/blob/main/right.png?raw=true"  style="height: 300px; width: 300px;">
+    </span>
+    <h1>깜둥이(8세)</h1>
