@@ -25,4 +25,4 @@ Here are some ideas to get you started:
         <img src="https://github.com/jongbum97/jongbum97/blob/main/right.png?raw=true"  style="height: 200px; width: 200px;">
     </span>
     <h1>깜둥이(8세)</h1>
-[jongbum.site](http://jongbum.site)
+   <h2> <a href='http://jongbum.site'>jongbum.site</a></h2>
