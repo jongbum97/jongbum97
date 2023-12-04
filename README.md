@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[jongbum.site](http://jongbum.site)
+
 <span>
         <img src="https://github.com/jongbum97/jongbum97/blob/main/left.png?raw=true"  style="height: 200px; width: 200px;">
     </span>
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
         <img src="https://github.com/jongbum97/jongbum97/blob/main/right.png?raw=true"  style="height: 200px; width: 200px;">
     </span>
     <h1>깜둥이(8세)</h1>
+[jongbum.site](http://jongbum.site)
